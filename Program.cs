@@ -7,7 +7,10 @@ namespace Prog120_S24_L3_Intergrals
     {
         static void Main(string[] args)
         {
-            
+            // Vicky Le
+            // 4/9/2024
+            // Programming 120
+
             // Expected Result = 6
             //int value = 123;
             //int base10 = 10;
